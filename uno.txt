@@ -1,0 +1,5 @@
+#Documento de requerimientos
+-El cliente quiere modificar le logo
+-Se necesita modificar el tamaño de las fotos
+
+Hola a todos
